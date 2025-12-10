@@ -71,7 +71,7 @@
         <small>RISK PREDICTION AI</small>
       </td>
       <td align="center" width="33%">
-         <a href="https://github.com/truongtanhai?tab=repositories">
+        <a href="https://github.com/truongtanhai?tab=repositories">
           <img src="https://images.unsplash.com/photo-1642543492481-44e81e3914a7?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&h=450&q=80" style="border-radius: 8px;" width="100%" alt="Stock Analyst">
         </a>
         <br>
@@ -79,12 +79,40 @@
         <small>DATA VISUALIZATION</small>
       </td>
       <td align="center" width="33%">
-         <a href="https://github.com/truongtanhai?tab=repositories">
+        <a href="https://github.com/truongtanhai?tab=repositories">
           <img src="https://images.unsplash.com/photo-1563986768609-322da13575f3?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&h=450&q=80" style="border-radius: 8px;" width="100%" alt="Fraud Detect">
         </a>
         <br>
         <b>FRAUD DETECT</b><br>
         <small>SECURITY / ML</small>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<h3 align="center" style="font-family: 'Cinzel', serif; letter-spacing: 2px;">III. SOUNDTRACK</h3>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="120">
+        <a href="https://open.spotify.com/track/4jXl6VtkFFKIt3lL54qqnj?si=e0c1f5a5c5b54a5c">
+            <img src="https://i.scdn.co/image/ab67616d0000b2730a8801d01308a34241e3d069" width="100" height="100" style="border-radius: 10px;">
+        </a>
+      </td>
+      <td>
+        <b>NOW PLAYING</b><br>
+        <span style="font-size: 16px; color: #D4AF37;">ĐỪNG LÀM TRÁI TIM ANH ĐAU</span><br>
+        <small>ARTIST: SƠN TÙNG M-TP</small> <br>
+        <br>
+        <img src="https://media.giphy.com/media/SjbFp55z1T2tW/giphy.gif" height="15" width="100%">
+      </td>
+      <td align="center">
+         <a href="https://open.spotify.com/track/4jXl6VtkFFKIt3lL54qqnj?si=e0c1f5a5c5b54a5c">
+            <img src="https://img.shields.io/badge/PLAY-black?style=for-the-badge&logo=spotify&logoColor=white">
+         </a>
       </td>
     </tr>
   </table>
