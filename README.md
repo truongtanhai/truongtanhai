@@ -98,19 +98,19 @@
   <table border="0">
     <tr>
       <td width="120">
-        <a href="https://open.spotify.com/track/4jXl6VtkFFKIt3lL54qqnj?si=e0c1f5a5c5b54a5c">
-            <img src="https://i.scdn.co/image/ab67616d0000b2730a8801d01308a34241e3d069" width="100" height="100" style="border-radius: 10px;">
+        <a href="https://open.spotify.com/track/6yl8Es1tFWIZ5se400Flha">
+            <img src="https://images.genius.com/0d99043217c09341492cb4d5156a0031.1000x1000x1.jpg" width="100" height="100" style="border-radius: 10px;">
         </a>
       </td>
       <td>
         <b>NOW PLAYING</b><br>
-        <span style="font-size: 16px; color: #D4AF37;">ĐỪNG LÀM TRÁI TIM ANH ĐAU</span><br>
-        <small>ARTIST: SƠN TÙNG M-TP</small> <br>
+        <span style="font-size: 16px; color: #D4AF37;">CÓ EM</span><br>
+        <small>ARTIST: MADIHU (FEAT. LOW G)</small> <br>
         <br>
         <img src="https://media.giphy.com/media/SjbFp55z1T2tW/giphy.gif" height="15" width="100%">
       </td>
       <td align="center">
-         <a href="https://open.spotify.com/track/4jXl6VtkFFKIt3lL54qqnj?si=e0c1f5a5c5b54a5c">
+         <a href="https://open.spotify.com/track/6yl8Es1tFWIZ5se400Flha">
             <img src="https://img.shields.io/badge/PLAY-black?style=for-the-badge&logo=spotify&logoColor=white">
          </a>
       </td>
