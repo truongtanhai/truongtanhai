@@ -98,7 +98,7 @@
   <table border="0">
     <tr>
       <td width="120">
-        <a href="https://open.spotify.com/track/6yl8Es1tFWIZ5se400Flha">
+        <a href="https://open.spotify.com/track/6Hs2xIgB8nzyGFDvVA8lFa?si=a63c82732d5d405b">
             <img src="https://images.genius.com/0d99043217c09341492cb4d5156a0031.1000x1000x1.jpg" width="100" height="100" style="border-radius: 10px;">
         </a>
       </td>
@@ -110,7 +110,7 @@
         <img src="https://media.giphy.com/media/SjbFp55z1T2tW/giphy.gif" height="15" width="100%">
       </td>
       <td align="center">
-         <a href="https://open.spotify.com/track/6yl8Es1tFWIZ5se400Flha">
+         <a href="https://open.spotify.com/track/6Hs2xIgB8nzyGFDvVA8lFa?si=a63c82732d5d405b">
             <img src="https://img.shields.io/badge/PLAY-black?style=for-the-badge&logo=spotify&logoColor=white">
          </a>
       </td>
