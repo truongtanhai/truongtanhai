@@ -28,28 +28,36 @@
   <br><br>
 </div>
 
-<h3 align="center" style="font-family: 'Cinzel', serif; letter-spacing: 2px;">I. THE ARSENAL (CÔNG CỤ)</h3>
+<h3 align="center" style="font-family: 'Cinzel', serif; letter-spacing: 2px;">II. FEATURED PROJECTS (DỰ ÁN)</h3>
 
 <div align="center">
-  <table border="0">
+  <table border="0" width="100%">
     <tr>
-      <td width="50%" align="center">
-        <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=300&q=80" style="border-radius: 10px;">
-      </td>
-      <td width="50%" align="left">
-        <h4 style="margin-bottom: 5px;">PYTHON CORE <br> PRIMARY WEAPON</h4>
-        <code>
-        ⚡ LANGUAGE....: Python 3.10+
-        📊 LIBRARY.....: Pandas, NumPy
-        🤖 AUTOMATION..: Selenium, Bot
-        🏦 FOCUS.......: FinTech / Data
-        </code>
-        <br><br>
-        <img src="https://img.shields.io/badge/CODE-Python-black?style=for-the-badge&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/DATA-Analysis-black?style=for-the-badge&logo=pandas&logoColor=white">
+      <td align="center" width="33%">
+        <a href="https://github.com/truongtanhai/Credit-Scoring">
+          <img src="https://placehold.co/600x900/1B2430/D4AF37?text=CREDIT+SCORING&font=playfair-display" style="border-radius: 8px;" width="100%" alt="Credit Scoring Project">
+        </a>
         <br>
-        <img src="https://img.shields.io/badge/TOOL-Excel-black?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-        <img src="https://img.shields.io/badge/DB-SQL-black?style=for-the-badge&logo=mysql&logoColor=white">
+        <b>CREDIT SCORING</b><br>
+        <small>RISK PREDICTION AI</small>
+      </td>
+      
+      <td align="center" width="33%">
+        <a href="https://github.com/truongtanhai/Stock-Analyst">
+          <img src="https://placehold.co/600x900/1B2430/D4AF37?text=STOCK+MARKET&font=playfair-display" style="border-radius: 8px;" width="100%" alt="Stock Market Project">
+        </a>
+        <br>
+        <b>STOCK ANALYST</b><br>
+        <small>DATA VISUALIZATION</small>
+      </td>
+      
+      <td align="center" width="33%">
+        <a href="https://github.com/truongtanhai/Fraud-Detect">
+          <img src="https://placehold.co/600x900/1B2430/D4AF37?text=FRAUD+DETECT&font=playfair-display" style="border-radius: 8px;" width="100%" alt="Fraud Detect Project">
+        </a>
+        <br>
+        <b>FRAUD DETECT</b><br>
+        <small>SECURITY / ML</small>
       </td>
     </tr>
   </table>
