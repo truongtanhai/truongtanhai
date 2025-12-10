@@ -72,7 +72,7 @@
       </td>
       <td align="center" width="33%">
          <a href="https://github.com/truongtanhai?tab=repositories">
-          <img src="https://images.unsplash.com/photo-1611974765270-ca1258634369?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&h=450&q=80" style="border-radius: 8px;" width="100%" alt="Stock Analyst">
+          <img src="https://images.unsplash.com/photo-1642543492481-44e81e3914a7?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&h=450&q=80" style="border-radius: 8px;" width="100%" alt="Stock Analyst">
         </a>
         <br>
         <b>STOCK ANALYST</b><br>
