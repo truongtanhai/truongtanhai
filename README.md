@@ -64,23 +64,23 @@
     <tr>
       <td align="center" width="33%">
         <a href="https://github.com/truongtanhai?tab=repositories">
-          <img src="https://placehold.co/600x900/1B2430/D4AF37?text=CREDIT+SCORING&font=playfair-display" style="border-radius: 8px;" width="100%" alt="Credit Scoring">
+          <img src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&h=450&q=80" style="border-radius: 8px;" width="100%" alt="Credit Scoring">
         </a>
         <br>
         <b>CREDIT SCORING</b><br>
         <small>RISK PREDICTION AI</small>
       </td>
       <td align="center" width="33%">
-        <a href="https://github.com/truongtanhai?tab=repositories">
-          <img src="https://placehold.co/600x900/1B2430/D4AF37?text=STOCK+MARKET&font=playfair-display" style="border-radius: 8px;" width="100%" alt="Stock Analyst">
+         <a href="https://github.com/truongtanhai?tab=repositories">
+          <img src="https://images.unsplash.com/photo-1611974765270-ca1258634369?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&h=450&q=80" style="border-radius: 8px;" width="100%" alt="Stock Analyst">
         </a>
         <br>
         <b>STOCK ANALYST</b><br>
         <small>DATA VISUALIZATION</small>
       </td>
       <td align="center" width="33%">
-        <a href="https://github.com/truongtanhai?tab=repositories">
-          <img src="https://placehold.co/600x900/1B2430/D4AF37?text=FRAUD+DETECT&font=playfair-display" style="border-radius: 8px;" width="100%" alt="Fraud Detect">
+         <a href="https://github.com/truongtanhai?tab=repositories">
+          <img src="https://images.unsplash.com/photo-1563986768609-322da13575f3?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&h=450&q=80" style="border-radius: 8px;" width="100%" alt="Fraud Detect">
         </a>
         <br>
         <b>FRAUD DETECT</b><br>
