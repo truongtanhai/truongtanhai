@@ -99,7 +99,7 @@
     <tr>
       <td width="120">
         <a href="https://open.spotify.com/track/6Hs2xIgB8nzyGFDvVA8lFa?si=a63c82732d5d405b">
-            <img src="https://images.genius.com/0d99043217c09341492cb4d5156a0031.1000x1000x1.jpg" width="100" height="100" style="border-radius: 10px;">
+            <img src="https://i1.sndcdn.com/artworks-d7y7U6zT9h8C-0-t500x500.jpg" width="100" height="100" style="border-radius: 10px;">
         </a>
       </td>
       <td>
