@@ -34,7 +34,7 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://images.unsplash.com/photo-1611162617474-5b21e879e113?q=80&w=1000&auto=format&fit=crop" style="border-radius: 10px; width: 300px; height: auto;">
+        <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=300&q=80" style="border-radius: 10px;">
       </td>
       <td width="50%" align="left">
         <h4 style="margin-bottom: 5px;">PYTHON CORE <br> PRIMARY WEAPON</h4>
@@ -64,60 +64,12 @@
     <tr>
       <td align="center" width="33%">
         <a href="https://github.com/truongtanhai/Credit-Scoring">
-          <img src="https://placehold.co/600x900/1B2430/D4AF37?text=CREDIT+SCORING&font=playfair-display" style="border-radius: 8px;" width="100%" alt="Credit Scoring Project">
+          <img src="https://placehold.co/600x900/1B2430/D4AF37?text=CREDIT+SCORING&font=playfair-display" style="border-radius: 8px;" width="100%" alt="Credit Scoring">
         </a>
         <br>
         <b>CREDIT SCORING</b><br>
         <small>RISK PREDICTION AI</small>
       </td>
-      
-      <td align="center" width="33%">
-        <a href="https://github.com/truongtanhai/Stock-Analyst">
-          <img src="https://placehold.co/600x900/1B2430/D4AF37?text=STOCK+MARKET&font=playfair-display" style="border-radius: 8px;" width="100%" alt="Stock Market Project">
-        </a>
-        <br>
-        <b>STOCK ANALYST</b><br>
-        <small>DATA VISUALIZATION</small>
-      </td>
-      
-      <td align="center" width="33%">
-        <a href="https://github.com/truongtanhai/Fraud-Detect">
-          <img src="https://placehold.co/600x900/1B2430/D4AF37?text=FRAUD+DETECT&font=playfair-display" style="border-radius: 8px;" width="100%" alt="Fraud Detect Project">
-        </a>
-        <br>
-        <b>FRAUD DETECT</b><br>
-        <small>SECURITY / ML</small>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<h3 align="center" style="font-family: 'Cinzel', serif; letter-spacing: 2px;">III. SOUNDTRACK</h3>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="120">
-        <a href="https://soundcloud.com/search?q=binh%20gold">
-            <img src="https://i1.sndcdn.com/avatars-000632363553-6k64s2-t500x500.jpg" width="100" height="100" style="border-radius: 10px; border: 2px solid #D4AF37;">
-        </a>
-      </td>
-      <td>
-        <b>NOW PLAYING</b><br>
-        <span style="font-size: 18px; color: #D4AF37;">BÌNH GOLD MIXSET</span><br>
-        <small>ARTIST: BÌNH GOLD</small> <br>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SoundCloud-Dark.svg" width="20"/> 
-        <a href="https://soundcloud.com/search?q=binh%20gold" target="_blank" style="text-decoration: none; color: #888;">
-           Listen on SoundCloud 
-        </a>
-        <br>
-        <img src="https://media.giphy.com/media/SjbFp55z1T2tW/giphy.gif" height="15" width="100%">
-      </td>
-    </tr>
-  </table>
-</div>
 
 <br>
 
